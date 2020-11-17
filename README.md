@@ -1,6 +1,6 @@
 # 付録：争点を束ねれば「イデオロギー」になる？ サーベイ実験とテキスト分析の融合を通じて
 
-(Supplementary Material: Ideology as a Bunch of Issue Attitudes?: Evidence from Survey Experiment and Text Analysis)
+(Supplementary Material for "Ideology as a Bunch of Issue Attitudes?: Evidence from Survey Experiment and Text Analysis")
 
 ---
 
